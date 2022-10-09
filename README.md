@@ -1,4 +1,3 @@
-# Analysis-of-Social-media-and-K-Pop
 # INTRODUCTION
 As the Internet improves connectivity around the world every day, there seems to be an endless amount of fresh art, film and other media in the world.
 
