@@ -10,8 +10,8 @@ Now that we know what and how influential K-Pop is, the next question would be: 
 In this tutorial, our goal is to guide the readers through the five stages of “Data Science Pipeline”: Data collection, Data management, Exploratory data analysis, Hypothesis testing, and Communication of insights attained. Which in our case will be collecting K-pop survey data gathered from social media, cleaning and tidying survey answers, performing demographic analysis of respondents vs money spent on K-pop, predicting how much money is spent given demographic characteristics, and finally conclude and discuss possible further exploration regarding different ways to explore the K-pop industry.
 
 ## Required Tools
-The following libraries were used for this tutorial:
-pandas
-numpys
-matplotlib
-sklearn
+The following libraries were used for this tutorial:<br>
+pandas <br>
+numpys <br>
+matplotlib <br>
+sklearn <br>
