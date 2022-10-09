@@ -11,7 +11,7 @@ In this tutorial, our goal is to guide the readers through the five stages of â€
 
 ## Required Tools
 The following libraries were used for this tutorial:<br>
-pandas <br>
-numpys <br>
-matplotlib <br>
-sklearn <br>
+<strong>pandas<strong> <br>
+<strong>numpys<strong> <br>
+<strong>matplotlib<strong> <br>
+<strong>sklearn<strong> <br>
