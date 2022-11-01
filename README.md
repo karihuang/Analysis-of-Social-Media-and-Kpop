@@ -1,4 +1,4 @@
-# INTRODUCTION
+# Introduction
 As the Internet improves connectivity around the world every day, there seems to be an endless amount of fresh art, film and other media in the world.
 
 Thanks to the Internet, K Pop, an acronym for Korean popular music, was introduced to many countries and cultures around the globe. Anyone who has seen the ‘Gangnam Style' music video might think that they know a bit about K-Pop, but K-Pop is more than just this song.
